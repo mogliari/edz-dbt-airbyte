@@ -4,6 +4,7 @@
 # name or the intended use of these models
 name: 'edz_dbt_airbyte'
 version: '1.0.0'
+config-version: 2
 
 # This setting configures which "profile" dbt uses for this project.
 profile: 'edz_dbt_airbyte'
